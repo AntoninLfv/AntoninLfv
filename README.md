@@ -1,6 +1,3 @@
-Backup GitHub 
-
-Voila mes projets :
 ### Hi there 👽
 
 Bienvenue sur mon profil GitHub !👋🏼</br>
