@@ -42,8 +42,6 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 ### Mes indispensables 📌
 
-🖥 - [Template](https://github.com/AntoninLfv/streamlit_template) streamlit complet 
-
 🚀 - [Template Flask](https://github.com/AntoninLfv/Flask_template) avec Blueprint
 
 🌟 - [Fonctions et classes](https://github.com/AntoninLfv/Utils) utiles
