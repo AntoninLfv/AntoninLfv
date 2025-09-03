@@ -55,7 +55,7 @@ Je suis un passionné de nouvelles technologies et de programmation. Je code pri
 
 [🔮](https://medium.com/@antoninlefevre45) - Mon profil [**Medium**](https://medium.com/@antoninlefevre45) où j'écris des articles.
 
-[📸](https://AntoninLfv.github.io/PhotographyWebsite/) - Mon [**site**](https://AntoninLfv.github.io/PhotographyWebsite/) de photos.
+[📸](https://antoninlfv.github.io/PhotographyWebsite/) - Mon [**site**](https://antoninlfv.github.io/PhotographyWebsite/) de photos.
 
 [🌐](https://AntoninLfv.github.io) - Mon [**site**](https://AntoninLfv.github.io) professionnel où sont répertoriés tous mes articles et projets.
 
